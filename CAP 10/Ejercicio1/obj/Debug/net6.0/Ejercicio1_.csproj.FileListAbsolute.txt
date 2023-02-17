@@ -1,0 +1,15 @@
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\bin\Debug\net6.0\Ejercicio1_.exe
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\bin\Debug\net6.0\Ejercicio1_.deps.json
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\bin\Debug\net6.0\Ejercicio1_.runtimeconfig.json
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\bin\Debug\net6.0\Ejercicio1_.dll
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\bin\Debug\net6.0\Ejercicio1_.pdb
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\obj\Debug\net6.0\Ejercicio1_.csproj.AssemblyReference.cache
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\obj\Debug\net6.0\Ejercicio1_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\obj\Debug\net6.0\Ejercicio1_.AssemblyInfoInputs.cache
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\obj\Debug\net6.0\Ejercicio1_.AssemblyInfo.cs
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\obj\Debug\net6.0\Ejercicio1_.csproj.CoreCompileInputs.cache
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\obj\Debug\net6.0\Ejercicio1_.dll
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\obj\Debug\net6.0\refint\Ejercicio1_.dll
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\obj\Debug\net6.0\Ejercicio1_.pdb
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\obj\Debug\net6.0\Ejercicio1_.genruntimeconfig.cache
+C:\Users\DECG\Desktop\TareapCap10-12\CAP 10\Ejercicio1_\obj\Debug\net6.0\ref\Ejercicio1_.dll
